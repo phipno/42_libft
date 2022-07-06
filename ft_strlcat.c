@@ -6,7 +6,7 @@
 /*   By: pnolte <pnolte@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/24 14:03:08 by pnolte            #+#    #+#             */
-/*   Updated: 2022/04/13 11:33:09 by pnolte           ###   ########.fr       */
+/*   Updated: 2022/06/27 10:44:34 by pnolte           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ size_t	ft_strlcat(char *dst, const char *src, size_t dstsize)
 	size_t	dstl;
 	size_t	srcl;
 	size_t	res;
-
+	
 	res = 0;
 	dstl = ft_strlen(dst);
 	srcl = ft_strlen(src);

@@ -6,7 +6,7 @@
 /*   By: pnolte <pnolte@student.42heilbronn.de>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/24 17:54:17 by pnolte            #+#    #+#             */
-/*   Updated: 2022/04/15 13:43:44 by pnolte           ###   ########.fr       */
+/*   Updated: 2022/06/28 11:07:59 by pnolte           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,7 +42,7 @@ int	ft_atoi(const char *str)
 // int	main(void)
 // {
 // 	int	res;
-// 	char str[] = "54";
+// 	char str[] = "9223372036854775807";
 
 // 	res = ft_atoi(str);
 // 	printf("%d", res);
